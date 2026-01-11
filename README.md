@@ -106,13 +106,7 @@ The entire pipeline is implemented in a **Jupyter Notebook**, making it easy to 
    cd plagiarism-checker-ai
    ```
 
-3. Install dependencies:
-
-   ```bash
-   pip install - -r requirements.txt
-   ```
-
-4. Open the notebook:
+3. Open the notebook:
 
    ```bash
    jupyter notebook Plagiarism_Checker_AI.ipynb
